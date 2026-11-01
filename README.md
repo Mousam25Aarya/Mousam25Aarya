@@ -1,22 +1,22 @@
 💫 Hi 👋, I'm Mousam Kumari
 
-A passionate B.Tech CSE Student | Aspiring Data Analyst | Python & Web Development Enthusiast from India 🇮🇳
+Aspiring Data Analyst | Python Developer | Data Science Enthusiast from India 🇮🇳
 
-I'm passionate about exploring technology, solving problems, and building projects that help me grow as a developer.
+I'm a B.Tech Computer Science student passionate about transforming raw data into meaningful insights through data analysis, visualization, and problem-solving.
 
-🔭 I'm currently working on: Data Analytics Projects and Web Development
+🔭 I'm currently working on: Real-world Data Analytics Projects and Exploratory Data Analysis (EDA)
 
-🌱 I'm currently learning: Python, SQL, Power BI, Data Structures & Algorithms, and React
+🌱 I'm currently learning: Advanced SQL, Python for Data Analysis, Power BI, and Data Visualization
 
-👯 I'm looking to collaborate on: Data Analytics, Machine Learning, and Web Development Projects
+👯 I'm looking to collaborate on: Data Analytics, Data Visualization, and Machine Learning Projects
 
-🤔 I'm looking for help with: Improving my problem-solving skills and building real-world projects
+🤔 I'm looking for help with: Building industry-level analytical projects and improving my analytical skills
 
-💬 Ask me about: Python, SQL, Data Analytics, C++, HTML, CSS, and JavaScript
+💬 Ask me about: Python, SQL, Excel, Data Cleaning, EDA, and Data Visualization
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I believe every bug fixed is a new lesson learned! 💻✨
+⚡ Fun fact: I love finding stories hidden inside data! 📊
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mousam_81070) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mousam-aarya-2508ma) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@aaryamousam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mousamthakurcs@gmail.com) 
 
